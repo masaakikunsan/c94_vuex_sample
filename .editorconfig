@@ -1,0 +1,13 @@
+root = true
+
+[*.{css,sass,scss}]
+indent_style = space
+indent_size = 2
+
+[*.{js,vue}]
+indent_style = space
+indent_size = 2
+
+[*.json]
+indent_style = space
+indent_size = 2
